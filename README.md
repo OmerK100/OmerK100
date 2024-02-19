@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cscanada.ca/wp-content/uploads/Embedded_SW_Dev_Banner.jpg)]
+![MasterHead](https://www.cscanada.ca/wp-content/uploads/Embedded_SW_Dev_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952m2kamdhx82ut8ic4hxyur7xktilhcjct6p5yvo25&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
