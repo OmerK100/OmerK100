@@ -1,8 +1,8 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cscanada.ca%2Fservices-expertises%2Fembedded-software%2F&psig=AOvVaw1WuwDWIRK1uK-mx__Zsr2X&ust=1708469868414000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjvz7bAuIQDFQAAAAAdAAAAABAD]
+[![MasterHead][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cscanada.ca%2Fservices-expertises%2Fembedded-software%2F&psig=AOvVaw1WuwDWIRK1uK-](https://www.cscanada.ca/wp-content/uploads/Embedded_SW_Dev_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate software developer</h3>
-
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952m2kamdhx82ut8ic4hxyur7xktilhcjct6p5yvo25&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+
 
 - 🌱 I’m currently learning **various backend and frontend technologies**
 
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omer-komissarchik-34061126b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omer-komissarchik-34061126b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
