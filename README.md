@@ -1,4 +1,4 @@
-<img align="right" alt="Banner" width="400" src="![image](https://github.com/OmerK100/OmerK100/assets/139342166/a0e14b41-7de4-4a6d-ad56-ea19ca4d00b3)
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.cscanada.ca/wp-content/uploads/Embedded_SW_Dev_Banner.jpg)]
 "/>
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate software developer</h3>
