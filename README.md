@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate software developer</h3>
 
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...]"
+img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0XjeDWsR3NuWLmsRsuhBDx&ust=1708469773362000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi_m4LAuIQDFQAAAAAdAAAAABAI)"
 
 - 🌱 I’m currently learning **various backend and frontend technologies**
 
